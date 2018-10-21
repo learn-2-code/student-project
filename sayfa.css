@@ -1,0 +1,30 @@
+body {
+    font-family: Tahoma;
+    font-size:12pt;
+}
+
+.ogrenciler {
+    background: #ddd;
+    padding: 10px;
+    width: 200px;
+}
+
+.ogrenci {
+    background: #fff;
+    border: 1px solid #fff;
+    padding: 5px;
+    font-size: 10pt;
+}
+
+#ogrenci {
+    width: 100%;
+    font-size: 12pt;
+}
+
+#ogrenci_ekle {
+    width: 100%;
+    font-size: 12pt;
+    margin-top: 5px;
+    background: #f00;
+    color: #fff;
+}
